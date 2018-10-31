@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2EC8B4AF21889FC0008BEF64 /* MekkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC8B4AE21889FC0008BEF64 /* MekkViewController.swift */; };
-		2EC8B4B121889FD7008BEF64 /* KateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC8B4B021889FD7008BEF64 /* KateViewController.swift */; };
+		2EC8B4AF21889FC0008BEF64 /* MekkClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC8B4AE21889FC0008BEF64 /* MekkClass.swift */; };
+		2EC8B4B121889FD7008BEF64 /* KateClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC8B4B021889FD7008BEF64 /* KateClass.swift */; };
 		2EC8B4B321889FEE008BEF64 /* ElishaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC8B4B221889FEE008BEF64 /* ElishaViewController.swift */; };
 		2EF3CC1D21874EA800A8FE85 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF3CC1C21874EA800A8FE85 /* AppDelegate.swift */; };
 		2EF3CC1F21874EA800A8FE85 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF3CC1E21874EA800A8FE85 /* ViewController.swift */; };
@@ -19,8 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2EC8B4AE21889FC0008BEF64 /* MekkViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MekkViewController.swift; sourceTree = "<group>"; };
-		2EC8B4B021889FD7008BEF64 /* KateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KateViewController.swift; sourceTree = "<group>"; };
+		2EC8B4AE21889FC0008BEF64 /* MekkClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MekkClass.swift; sourceTree = "<group>"; };
+		2EC8B4B021889FD7008BEF64 /* KateClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KateClass.swift; sourceTree = "<group>"; };
 		2EC8B4B221889FEE008BEF64 /* ElishaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElishaViewController.swift; sourceTree = "<group>"; };
 		2EF3CC1921874EA800A8FE85 /* Weight App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Weight App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EF3CC1C21874EA800A8FE85 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -64,8 +64,8 @@
 			children = (
 				2EF3CC1C21874EA800A8FE85 /* AppDelegate.swift */,
 				2EF3CC1E21874EA800A8FE85 /* ViewController.swift */,
-				2EC8B4AE21889FC0008BEF64 /* MekkViewController.swift */,
-				2EC8B4B021889FD7008BEF64 /* KateViewController.swift */,
+				2EC8B4AE21889FC0008BEF64 /* MekkClass.swift */,
+				2EC8B4B021889FD7008BEF64 /* KateClass.swift */,
 				2EC8B4B221889FEE008BEF64 /* ElishaViewController.swift */,
 				2EF3CC2021874EA800A8FE85 /* Main.storyboard */,
 				2EF3CC2621874EA900A8FE85 /* Assets.xcassets */,
@@ -150,9 +150,9 @@
 				2EF3CC1F21874EA800A8FE85 /* ViewController.swift in Sources */,
 				2EF3CC1D21874EA800A8FE85 /* AppDelegate.swift in Sources */,
 				2EC8B4B321889FEE008BEF64 /* ElishaViewController.swift in Sources */,
-				2EC8B4AF21889FC0008BEF64 /* MekkViewController.swift in Sources */,
+				2EC8B4AF21889FC0008BEF64 /* MekkClass.swift in Sources */,
 				2EF3CC2521874EA800A8FE85 /* Weight_App.xcdatamodeld in Sources */,
-				2EC8B4B121889FD7008BEF64 /* KateViewController.swift in Sources */,
+				2EC8B4B121889FD7008BEF64 /* KateClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
